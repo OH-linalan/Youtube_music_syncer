@@ -1,0 +1,15 @@
+/workspace/Youtube_music_syncer/bin/Debug/net7.0/Youtube_music_syncer
+/workspace/Youtube_music_syncer/bin/Debug/net7.0/Youtube_music_syncer.deps.json
+/workspace/Youtube_music_syncer/bin/Debug/net7.0/Youtube_music_syncer.runtimeconfig.json
+/workspace/Youtube_music_syncer/bin/Debug/net7.0/Youtube_music_syncer.dll
+/workspace/Youtube_music_syncer/bin/Debug/net7.0/Youtube_music_syncer.pdb
+/workspace/Youtube_music_syncer/obj/Debug/net7.0/Youtube_music_syncer.csproj.AssemblyReference.cache
+/workspace/Youtube_music_syncer/obj/Debug/net7.0/Youtube_music_syncer.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Youtube_music_syncer/obj/Debug/net7.0/Youtube_music_syncer.AssemblyInfoInputs.cache
+/workspace/Youtube_music_syncer/obj/Debug/net7.0/Youtube_music_syncer.AssemblyInfo.cs
+/workspace/Youtube_music_syncer/obj/Debug/net7.0/Youtube_music_syncer.csproj.CoreCompileInputs.cache
+/workspace/Youtube_music_syncer/obj/Debug/net7.0/Youtube_music_syncer.dll
+/workspace/Youtube_music_syncer/obj/Debug/net7.0/refint/Youtube_music_syncer.dll
+/workspace/Youtube_music_syncer/obj/Debug/net7.0/Youtube_music_syncer.pdb
+/workspace/Youtube_music_syncer/obj/Debug/net7.0/Youtube_music_syncer.genruntimeconfig.cache
+/workspace/Youtube_music_syncer/obj/Debug/net7.0/ref/Youtube_music_syncer.dll
