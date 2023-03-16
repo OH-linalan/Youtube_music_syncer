@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspace/Youtube_music_syncer/Youtube_music_syncer.csproj": {}
+    "/home/ubuntu/Youtube_music_syncer/Youtube_music_syncer.csproj": {}
   },
   "projects": {
-    "/workspace/Youtube_music_syncer/Youtube_music_syncer.csproj": {
+    "/home/ubuntu/Youtube_music_syncer/Youtube_music_syncer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspace/Youtube_music_syncer/Youtube_music_syncer.csproj",
+        "projectUniqueName": "/home/ubuntu/Youtube_music_syncer/Youtube_music_syncer.csproj",
         "projectName": "Youtube_music_syncer",
-        "projectPath": "/workspace/Youtube_music_syncer/Youtube_music_syncer.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/workspace/Youtube_music_syncer/obj/",
+        "projectPath": "/home/ubuntu/Youtube_music_syncer/Youtube_music_syncer.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/Youtube_music_syncer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

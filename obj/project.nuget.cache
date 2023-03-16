@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WTyr+y8OvNLJ81ySFQVoWPbQj5KMt8dfL+KAC7dx0V2hIIYo0ZVLNt+Dks1uqLncBLEkY/bLHChdma/N96ieTw==",
+  "dgSpecHash": "ybvVq+nKTFKtXWh1KmpJsgwZ0fciFGchfeiC+oyYAksx8smnC/T7QXXrKl5ZJmqf/GYonWCYiubLr0Mg31d9NA==",
   "success": true,
-  "projectFilePath": "/workspace/Youtube_music_syncer/Youtube_music_syncer.csproj",
+  "projectFilePath": "/home/ubuntu/Youtube_music_syncer/Youtube_music_syncer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
