@@ -60,11 +60,12 @@ def musicDownloader(url):
     if(len(url)==0):
         print('sync already complete')
         return
-    if(os.path.isdir(currentDir+"/music")==True):
-        shutil.rmtree(currentDir+"/music")
-    else:
-        os.mkdir('music')
-    
+    if(os.path.isdir(currentDir+"/music")==False):
+        os.mkdir("music")
+    for elements in url:
+        yt = pytube.YouTube(elements)
+        stream = yt.streams.get_highest_resolution()
+        stream.download()
 #main
 print("-------------------")
 print("   Python Syncer   ")
@@ -77,7 +78,9 @@ if(os.path.isfile(currentDir+"/config/setting.txt")==True):
     print("load setting")
     playlistUrl, names = loadSetting()
     modifiedUrls = nameInsertor(playlistUrl, names)
+    musicDownloader(modifiedUrls)
 else:
     print("start setting...")
     playlistUrl, names = createSetting()
     modifiedUrls = nameInsertor(playlistUrl, names)
+    musicDownloader(modifiedUrls)
