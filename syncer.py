@@ -65,7 +65,7 @@ def musicDownloader(url):
     for elements in url:
         print("downloading "+elements+"...\n")
         yt = pytube.YouTube(elements)
-        stream = yt.streams.get_highest_resolution()
+        stream = yt.streams.get_audio_only()
         stream.download("music")
 #main
 print("-------------------")
