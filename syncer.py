@@ -63,9 +63,10 @@ def musicDownloader(url):
     if(os.path.isdir(currentDir+"/music")==False):
         os.mkdir("music")
     for elements in url:
+        print("downloading "+elements+"...\n")
         yt = pytube.YouTube(elements)
         stream = yt.streams.get_highest_resolution()
-        stream.download()
+        stream.download("music")
 #main
 print("-------------------")
 print("   Python Syncer   ")
